@@ -297,13 +297,13 @@
     padding: 0;
     color: white;
     grid-template-columns: 20% 20% 20% 20% 20%;
-    z-index: 3;
 }
 
 .table__cell_theme_dark {
     margin-top: 80px;
     width: 200px;
     color: white;
+    z-index: 3;
 }
 
 .table__heading_theme_dark {
@@ -312,12 +312,10 @@
     font-size: 24px;
     font-weight: 600;
     color: white;
-    z-index: 4;
 }
 
 .table__text_theme_dark {
     color: white;
-    z-index: 5;
 }
 
 

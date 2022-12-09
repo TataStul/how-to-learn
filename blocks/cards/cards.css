@@ -1,0 +1,9 @@
+.cards {
+    margin: auto;
+    padding-left: 0;
+    width: 920px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-items: center;
+    grid-gap: 0 100px;
+}

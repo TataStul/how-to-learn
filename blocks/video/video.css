@@ -1,0 +1,9 @@
+.video {
+    margin: 0;
+    padding: 0;
+    margin-top: 100px;
+    position: relative;
+    display: flex;
+    overflow: visible;
+    flex-direction: column;
+}

@@ -1,0 +1,5 @@
+.table_theme_dark {
+    padding: 0;
+    color: white;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}

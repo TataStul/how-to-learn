@@ -2,6 +2,7 @@
     margin: 0;
     padding-top: 100px;
     position: relative;
-    min-height: 890px;
+    box-sizing: border-box;
+    height: 890px;
     background-color: #f2f2f2;
 }

@@ -5,4 +5,6 @@
     justify-content: center;
     position: relative;
     top: 50px;
+    list-style-type: none;
+    grid-gap: 20px;
 }
